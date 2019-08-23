@@ -1,0 +1,3 @@
+[submodule "themes/tvpage"]
+path = themes/tvpage
+url = https://github.com/tvpage/tvpage-hugo-template.git
