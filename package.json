@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "dependencies": {
+    "replace-ext": "^1.0.0"
+  }
+}
