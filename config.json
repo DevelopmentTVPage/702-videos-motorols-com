@@ -1,0 +1,16 @@
+{
+    "title": "Stage HUB",
+    "baseURL": "https:\/\/videos.motorols.com\/us",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759312",
+        "subfolder": "\/us",
+        "firstpartycookies": true,
+        "cookiedomain": "motorols.com"
+    }
+}
